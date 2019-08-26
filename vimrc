@@ -14,15 +14,11 @@ cab Q  q
 " SET :
 set wildmenu			" completação do TAB
 set nocompatible		" compatibilidade vi/vim
-set number			" mostra número de linhas
+set number			    " mostra número de linhas
 set tabstop=4			" make tabs as wide as four spaces
 set shiftwidth=4		" ^
 set laststatus=2		" always show status lines
-set mouse=a			" enable mouse in all modes
-set tw=90			" quebra-linhas
-set colorcolumn=90		" printa quebra-linhas
-
-
+set mouse=a			    " enable mouse in all modes
 
 " Sintaxe:
 syn on
